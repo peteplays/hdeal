@@ -1,6 +1,6 @@
 {
-  "name": "gulpbrowserifyserver",
-  "version": "0.6.0",
+  "name": "hdeal",
+  "version": "0.1.0",
   "author": "peteplays",
   "description": "gulp browserify server",
   "keywords": [
@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/peteplays/theDeal"
+    "url": "https://github.com/peteplays/hDeal"
   },
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "angular": "^1.5.1",
     "angular-animate": "^1.5.1",
     "angular-ui-bootstrap": "^1.2.4",
